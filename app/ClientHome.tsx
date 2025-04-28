@@ -73,7 +73,7 @@ export default function ClientHome() {
         <motion.a
           whileHover={{ scale: 1.2, rotate: 5 }}
           whileTap={{ scale: 0.95 }}
-          href="https://github.com/username"
+          href="https://github.com/AhmadNaufal1234/personalpage"
           target="_blank"
           rel="noopener noreferrer"
         >
